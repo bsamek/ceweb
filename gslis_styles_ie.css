@@ -1,0 +1,65 @@
+body
+{
+	text-align:center;
+}
+
+#story
+{
+	text-align:left;
+}
+
+#story p
+{
+	margin-top:-10px;
+}
+
+
+#story h3
+{
+	padding-bottom:20px;
+}
+
+#story img
+{
+	margin-bottom:0px;
+	margin-top:0px;
+	margin-right:0px;
+}
+
+#bar
+{
+	position:relative;
+	bottom:0px;
+}
+
+#headercontainer
+{
+	position:relative;
+	bottom:-15px;
+}
+
+#rightie
+{
+	width:160px;
+	padding-left:0px;
+}
+
+#rightie p
+{
+	line-height:15px;
+}
+
+#leftie
+{
+	width:515px;
+}
+
+#leftie ul
+{
+/* padding-left:50px; */
+}
+
+#sidebar h2
+{
+	margin-bottom:20px;
+}

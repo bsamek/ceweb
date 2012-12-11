@@ -1,0 +1,5 @@
+# Ignore pics, previews, cvs, and display images
+pics/
+previews/
+cvs/
+i/
